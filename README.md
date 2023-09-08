@@ -31,3 +31,9 @@ cat <  > pour lire le contenu d'un fichier
 tab == autocompletion
 
 chemin relatif/absolu
+
+
+maison:::::
+
+install git/vs code
+sur vsc: ctrl shift p -> gitclone
