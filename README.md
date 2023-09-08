@@ -30,3 +30,4 @@ cat <  > pour lire le contenu d'un fichier
 
 tab == autocompletion
 
+chemin relatif/absolu
