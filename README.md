@@ -6,3 +6,6 @@
 ***combo***
 - liste
 - 
+1. liste note
+2. liste 2
+`print("salut")`
