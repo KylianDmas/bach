@@ -37,3 +37,5 @@ maison:::::
 
 install git/vs code
 sur vsc: ctrl shift p -> gitclone
+
+echo == repeter arguments
