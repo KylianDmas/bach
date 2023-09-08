@@ -13,4 +13,12 @@
 `print("salut")`
 
 [lien vers le killercoda](https://killercoda.com/emelin)
-gvgvjjh
+
+ls pour voir les fichiers 
+
+cd .. pour retour arrière
+
+cd pour go to home
+
+cat pour lire le contenu d'un fichier
+
