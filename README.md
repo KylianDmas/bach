@@ -28,3 +28,5 @@ cd pour go to home
 
 cat <  > pour lire le contenu d'un fichier
 
+tab == autocompletion
+
