@@ -14,11 +14,17 @@
 
 [lien vers le killercoda](https://killercoda.com/emelin)
 
+ls == list
+
 ls pour voir les fichiers 
+
+cd == Change directory
+
+cd <   > pour rentrer dans un dossier
 
 cd .. pour retour arrière
 
 cd pour go to home
 
-cat pour lire le contenu d'un fichier
+cat <  > pour lire le contenu d'un fichier
 
