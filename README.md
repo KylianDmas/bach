@@ -80,5 +80,3 @@ tailles des fichiers:
 bit/octet/ko/mo/go/to
 0 ou 1/ 8 bit/ 1000 octets/ 1000 ko/ 1000 mo/ 1000 go
                 10³         10⁶         10⁹     10¹²
-
-                esrfgdfgdfhgdfh
